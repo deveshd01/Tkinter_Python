@@ -1,0 +1,9 @@
+2
+2
+3
+4
+2
+STUDENT NAME  :  DEVESH DHOTE
+ID  :  55
+EMAIL ID  :  iamdeveshd11@gmail.com
+you got 3 marks in this exam

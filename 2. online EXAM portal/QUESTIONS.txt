@@ -1,0 +1,25 @@
+Q1) area of circle
+A) pi*r*r
+B) side*side
+C) 1/2 * base * height
+D) length * width
+Q2) area of square
+A) pi*r*r
+B) side*side
+C) 1/2 * base * height
+D) length * width
+Q3) area of triangle
+A) pi*r*r
+B) side*side
+C) 1/2 * base * height
+D) length * width
+Q4) area of rectangle
+A) pi*r*r
+B) side*side
+C) 1/2 * base * height
+D) length * width
+Q5) volume of cube
+A) pi*r*r
+B) side*side
+C) a * a * a
+D) length * width
